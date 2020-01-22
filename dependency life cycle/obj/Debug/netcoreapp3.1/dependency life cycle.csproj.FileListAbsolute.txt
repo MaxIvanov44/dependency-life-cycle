@@ -1,0 +1,18 @@
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.exe
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.deps.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.runtimeconfig.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.dll
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\bin\Debug\netcoreapp3.1\dependency life cycle.pdb
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\staticwebassets\dependency life cycle.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\staticwebassets\dependency life cycle.StaticWebAssets.xml
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.AssemblyInfo.cs
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.dll
+C:\Users\ivano\source\repos\dependency life cycle\dependency life cycle\obj\Debug\netcoreapp3.1\dependency life cycle.pdb
